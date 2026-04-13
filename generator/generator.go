@@ -1,8 +1,8 @@
 package generator
 
 import (
-	"github.com/genelet/arazzo/arazzo1"
-	"github.com/genelet/oas/openapi31"
+	"github.com/tabilet/arazzo/arazzo1"
+	"github.com/tabilet/oas/openapi31"
 )
 
 // Generator represents a generator config.

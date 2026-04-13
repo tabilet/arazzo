@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/genelet/arazzo/arazzo1"
+	"github.com/tabilet/arazzo/arazzo1"
 	"github.com/google/go-cmp/cmp"
 	"github.com/stretchr/testify/assert"
 	"gopkg.in/yaml.v3"

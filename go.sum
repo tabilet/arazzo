@@ -10,10 +10,6 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/genelet/horizon v1.14.0 h1:9Mdt/Ap7YJn0v+RS0lq2kjWWedYCm8eRxPvbYMDgtkI=
 github.com/genelet/horizon v1.14.0/go.mod h1:mJPVzZ5+fogvaIi61QS1nUZBMai0xaA22R/qlbZdu/w=
-github.com/genelet/oas v0.0.0-20251209172154-2e3e4a13646b h1:64fvOUfBZQUsGdINiA8MQa1y6Ybst4tW9gtKuwvHFko=
-github.com/genelet/oas v0.0.0-20251209172154-2e3e4a13646b/go.mod h1:DnQIWAYjrckHkuYCdYa6nZ3HlQ9aUaK++CKZ0KbT6DM=
-github.com/genelet/schema v0.0.0-20251203212046-4a325f33cf8e h1:oBz67i9esRNHLd1vAwS0m7fPcXccKc0+djpQuhju2rU=
-github.com/genelet/schema v0.0.0-20251203212046-4a325f33cf8e/go.mod h1:OYTK4cOVgg2kavgv+yAgVqR9kuKUWE3Zdo6z6XlDZHo=
 github.com/go-test/deep v1.0.3 h1:ZrJSEWsXzPOxaZnFteGEfooLba+ju3FYIbOrS+rQd68=
 github.com/go-test/deep v1.0.3/go.mod h1:wGDj63lr65AM2AQyKZd/NYHGb0R+1RLqB8NKt3aSFNA=
 github.com/google/go-cmp v0.7.0 h1:wk8382ETsv4JYUZwIsn6YpYiWiBsYLSJiTsyBybVuN8=
@@ -32,6 +28,8 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=
 github.com/stretchr/testify v1.11.1/go.mod h1:wZwfW3scLgRK+23gO65QZefKpKQRnfz6sD981Nm4B6U=
+github.com/tabilet/oas v0.0.0-20260413131549-b78ffd347d17 h1:OpQkp8JmhkFWlpv1RUivTs0fhlU5GTsB35ysZt+eJ9o=
+github.com/tabilet/oas v0.0.0-20260413131549-b78ffd347d17/go.mod h1:nGzx9NgME3UVZdCJWQmEe2pwcnbJ0uGWPhQRQyq6wgM=
 github.com/zclconf/go-cty v1.17.0 h1:seZvECve6XX4tmnvRzWtJNHdscMtYEx5R7bnnVyd/d0=
 github.com/zclconf/go-cty v1.17.0/go.mod h1:wqFzcImaLTI6A5HfsRwB0nj5n0MRZFwmey8YoFPPs3U=
 github.com/zclconf/go-cty-debug v0.0.0-20240509010212-0d6042c53940 h1:4r45xpDWB6ZMSMNJFMOjqrGHynW3DIBuR2H9j0ug+Mo=

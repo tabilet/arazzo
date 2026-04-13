@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/genelet/arazzo/arazzo1"
+	"github.com/tabilet/arazzo/arazzo1"
 )
 
 func TestJSONToHCL(t *testing.T) {

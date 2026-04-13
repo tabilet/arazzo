@@ -6,9 +6,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/genelet/arazzo/arazzo1"
+	"github.com/tabilet/arazzo/arazzo1"
 	"github.com/genelet/horizon/dethcl"
-	"github.com/genelet/oas/openapi31"
+	"github.com/tabilet/oas/openapi31"
 	"gopkg.in/yaml.v3"
 )
 
@@ -455,7 +455,7 @@ func enrichStepFromOpenAPI(step *arazzo1.Step, doc *openapi31.OpenAPI) {
 				// schemeRef might be a reference or value. Assuming value usage simplified for now as generator is mostly reader
 				// Actually openapi31.SecuritySchemes is map[string]*SecurityScheme|Reference
 				// We need to resolve it. But typically it's direct in components.
-				// In genelet/oas/openapi31, SecurityScheme is struct.
+				// In tabilet/oas/openapi31, SecurityScheme is struct.
 				if schemeRef.Type == "apiKey" {
 					// Add parameter
 					param := arazzo1.Parameter{
